@@ -1,0 +1,30 @@
+{
+  "imd_2025": "2025",
+  "le_male": "2023 - 25",
+  "le_female": "2023 - 25",
+  "hle_male": "2022 - 24",
+  "hle_female": "2022 - 24",
+  "le_gap_within_male": "2022 - 24",
+  "le_gap_within_female": "2022 - 24",
+  "u75_preventable": "2024",
+  "smoking_pct": "2025",
+  "adult_overweight_pct": "2024/25",
+  "inactive_pct": "2024/25",
+  "y6_overweight_pct": "2024/25",
+  "air_pollution_pct": "2024",
+  "england_values": {
+    "imd_2025": 21.81,
+    "le_male": 79.7,
+    "le_female": 83.5,
+    "hle_male": 60.9,
+    "hle_female": 61.3,
+    "le_gap_within_male": 10.374,
+    "le_gap_within_female": 8.029,
+    "u75_preventable": 145.813,
+    "smoking_pct": 9.512,
+    "adult_overweight_pct": 64.642,
+    "inactive_pct": 21.818,
+    "y6_overweight_pct": 36.165,
+    "air_pollution_pct": 5.291
+  }
+}

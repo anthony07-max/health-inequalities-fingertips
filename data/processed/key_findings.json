@@ -1,0 +1,315 @@
+{
+  "life_expectancy_male_most_deprived": 73.2,
+  "life_expectancy_male_least_deprived": 83.6,
+  "life_expectancy_male_gap": 10.4,
+  "healthy_life_expectancy_male_most_deprived": 49.8,
+  "healthy_life_expectancy_male_least_deprived": 69.2,
+  "healthy_life_expectancy_male_gap": 19.4,
+  "life_expectancy_female_most_deprived": 78.3,
+  "life_expectancy_female_least_deprived": 86.4,
+  "life_expectancy_female_gap": 8.1,
+  "healthy_life_expectancy_female_most_deprived": 48.2,
+  "healthy_life_expectancy_female_least_deprived": 68.5,
+  "healthy_life_expectancy_female_gap": 20.3,
+  "le_period": "2022 - 24",
+  "hle_period": "2022 - 24",
+  "healthy_life_expectancy_female_gap_first": [
+    "2013 - 15",
+    19.1
+  ],
+  "healthy_life_expectancy_female_gap_peak": [
+    "2021 - 23",
+    20.3
+  ],
+  "healthy_life_expectancy_male_gap_first": [
+    "2013 - 15",
+    18.3
+  ],
+  "healthy_life_expectancy_male_gap_peak": [
+    "2021 - 23",
+    19.8
+  ],
+  "life_expectancy_female_gap_first": [
+    "2011 - 13",
+    6.8
+  ],
+  "life_expectancy_female_gap_peak": [
+    "2020 - 22",
+    8.4
+  ],
+  "life_expectancy_male_gap_first": [
+    "2011 - 13",
+    9.0
+  ],
+  "life_expectancy_male_gap_peak": [
+    "2022 - 24",
+    10.4
+  ],
+  "la_corr_imd_le": -0.82,
+  "la_le_per_10_imd_points": -1.74,
+  "q_hle_male": [
+    64.6,
+    56.0
+  ],
+  "q_hle_female": [
+    65.1,
+    56.0
+  ],
+  "q_u75_preventable": [
+    112.6,
+    202.9
+  ],
+  "q_smoking_pct": [
+    7.0,
+    12.4
+  ],
+  "corr_le": {
+    "IMD 2025": -0.82,
+    "Healthy LE": 0.86,
+    "Preventable <75": -0.96,
+    "Smoking": -0.65,
+    "Adult overweight": -0.64,
+    "Inactive": -0.64,
+    "Yr6 overweight": -0.75,
+    "Air pollution": 0.25
+  },
+  "reg_n": 151,
+  "reg_r2_imd_only": 0.676,
+  "reg_r2_full": 0.831,
+  "reg_coefs": {
+    "imd_2025": {
+      "coef_years_per_sd": -1.097,
+      "p_value": 0.0
+    },
+    "smoking_pct": {
+      "coef_years_per_sd": -0.167,
+      "p_value": 0.071
+    },
+    "adult_overweight_pct": {
+      "coef_years_per_sd": -0.446,
+      "p_value": 0.0
+    },
+    "inactive_pct": {
+      "coef_years_per_sd": -0.012,
+      "p_value": 0.915
+    },
+    "air_pollution_pct": {
+      "coef_years_per_sd": 0.286,
+      "p_value": 0.0
+    }
+  },
+  "newham_imd_2025": 31.6,
+  "newham_rank_london_imd_2025": 2,
+  "newham_le_persons_avg": 81.8,
+  "newham_rank_london_le_persons_avg": 25,
+  "newham_hle_persons_avg": 63.0,
+  "newham_rank_london_hle_persons_avg": 15,
+  "newham_u75_preventable": 152.6,
+  "newham_rank_london_u75_preventable": 8,
+  "newham_smoking_pct": 10.8,
+  "newham_rank_london_smoking_pct": 5,
+  "newham_inactive_pct": 29.2,
+  "newham_rank_london_inactive_pct": 4,
+  "london_boroughs_n": 32,
+  "newham_rank_england_imd": 22,
+  "newham_hle_male": 62.8,
+  "newham_hle_female": 63.1,
+  "newham_le_male": 79.6,
+  "newham_le_female": 84.0,
+  "london_best_le": [
+    "Kensington and Chelsea",
+    85.2
+  ],
+  "london_worst_le": [
+    "Barking and Dagenham",
+    80.2
+  ],
+  "london_best_hle": [
+    "Richmond upon Thames",
+    69.8
+  ],
+  "london_worst_hle": [
+    "Greenwich",
+    58.0
+  ],
+  "newham_le_first": {
+    "Female": [
+      "2001 - 03",
+      78.83538
+    ],
+    "Male": [
+      "2001 - 03",
+      73.66408
+    ]
+  },
+  "k_clusters": 3,
+  "silhouette": {
+    "3": 0.341,
+    "4": 0.261,
+    "5": 0.253,
+    "6": 0.217
+  },
+  "pca_var_explained": [
+    0.639,
+    0.155
+  ],
+  "clusters": {
+    "1": {
+      "n": 26,
+      "le": 82.6,
+      "hle": 62.1,
+      "imd": 24.1,
+      "london": 25
+    },
+    "2": {
+      "n": 59,
+      "le": 82.6,
+      "hle": 63.5,
+      "imd": 15.6,
+      "london": 6
+    },
+    "3": {
+      "n": 66,
+      "le": 79.8,
+      "hle": 57.0,
+      "imd": 29.2,
+      "london": 1
+    }
+  },
+  "newham_cluster": 1,
+  "region_summary": [
+    {
+      "region": "London",
+      "areas": 32,
+      "avg_imd": 22.2,
+      "avg_le": 82.8,
+      "avg_hle": 62.9,
+      "le_range": 5.0,
+      "avg_smoking": 8.5
+    },
+    {
+      "region": "South West",
+      "areas": 14,
+      "avg_imd": 18.0,
+      "avg_le": 82.3,
+      "avg_hle": 62.2,
+      "le_range": 3.0,
+      "avg_smoking": 9.5
+    },
+    {
+      "region": "South East",
+      "areas": 19,
+      "avg_imd": 16.8,
+      "avg_le": 82.3,
+      "avg_hle": 63.1,
+      "le_range": 4.3,
+      "avg_smoking": 8.8
+    },
+    {
+      "region": "East of England",
+      "areas": 11,
+      "avg_imd": 19.9,
+      "avg_le": 81.9,
+      "avg_hle": 61.0,
+      "le_range": 2.8,
+      "avg_smoking": 9.5
+    },
+    {
+      "region": "East Midlands",
+      "areas": 10,
+      "avg_imd": 21.4,
+      "avg_le": 81.1,
+      "avg_hle": 59.5,
+      "le_range": 5.5,
+      "avg_smoking": 9.6
+    },
+    {
+      "region": "West Midlands",
+      "areas": 14,
+      "avg_imd": 24.8,
+      "avg_le": 80.7,
+      "avg_hle": 59.3,
+      "le_range": 3.8,
+      "avg_smoking": 10.5
+    },
+    {
+      "region": "Yorkshire and the Humber",
+      "areas": 15,
+      "avg_imd": 26.2,
+      "avg_le": 80.3,
+      "avg_hle": 57.8,
+      "le_range": 4.5,
+      "avg_smoking": 11.6
+    },
+    {
+      "region": "North West",
+      "areas": 24,
+      "avg_imd": 27.8,
+      "avg_le": 79.9,
+      "avg_hle": 58.1,
+      "le_range": 5.4,
+      "avg_smoking": 10.0
+    },
+    {
+      "region": "North East",
+      "areas": 12,
+      "avg_imd": 29.3,
+      "avg_le": 79.7,
+      "avg_hle": 56.5,
+      "le_range": 2.8,
+      "avg_smoking": 10.0
+    }
+  ],
+  "la_best_le": [
+    "Kensington and Chelsea",
+    85.2
+  ],
+  "la_worst_le": [
+    "Blackpool",
+    76.8
+  ],
+  "la_best_hle": [
+    "Richmond upon Thames",
+    69.8
+  ],
+  "la_worst_hle": [
+    "Blackpool",
+    51.4
+  ],
+  "la_male_le_range": [
+    "Blackpool",
+    74.2,
+    "Kensington and Chelsea",
+    83.3
+  ],
+  "periods": {
+    "imd_2025": "2025",
+    "le_male": "2023 - 25",
+    "le_female": "2023 - 25",
+    "hle_male": "2022 - 24",
+    "hle_female": "2022 - 24",
+    "le_gap_within_male": "2022 - 24",
+    "le_gap_within_female": "2022 - 24",
+    "u75_preventable": "2024",
+    "smoking_pct": "2025",
+    "adult_overweight_pct": "2024/25",
+    "inactive_pct": "2024/25",
+    "y6_overweight_pct": "2024/25",
+    "air_pollution_pct": "2024"
+  },
+  "england": {
+    "imd_2025": 21.81,
+    "le_male": 79.7,
+    "le_female": 83.5,
+    "hle_male": 60.9,
+    "hle_female": 61.3,
+    "le_gap_within_male": 10.374,
+    "le_gap_within_female": 8.029,
+    "u75_preventable": 145.813,
+    "smoking_pct": 9.512,
+    "adult_overweight_pct": 64.642,
+    "inactive_pct": 21.818,
+    "y6_overweight_pct": 36.165,
+    "air_pollution_pct": 5.291
+  }
+}

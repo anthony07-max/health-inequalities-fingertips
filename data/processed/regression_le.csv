@@ -1,0 +1,6 @@
+,coef_years_per_sd,ci_low,ci_high,p_value,vif
+imd_2025,-1.097,-1.286,-0.909,0.0,2.56
+smoking_pct,-0.167,-0.35,0.015,0.071,1.82
+adult_overweight_pct,-0.446,-0.653,-0.239,0.0,2.19
+inactive_pct,-0.012,-0.236,0.211,0.915,2.58
+air_pollution_pct,0.286,0.134,0.438,0.0,1.58

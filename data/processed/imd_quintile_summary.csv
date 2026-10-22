@@ -1,0 +1,6 @@
+imd_quintile,le_male,le_female,hle_male,hle_female,smoking_pct,adult_overweight_pct,inactive_pct,u75_preventable
+Q1 least deprived,81.4,85.0,64.6,65.1,7.0,60.6,18.4,112.6
+Q2,80.3,84.0,62.2,62.4,8.6,64.6,20.7,131.7
+Q3,79.5,83.6,60.6,60.9,10.0,62.4,21.9,150.3
+Q4,78.5,82.7,58.2,58.3,9.7,67.1,24.4,170.9
+Q5 most deprived,77.2,81.6,56.0,56.0,12.4,67.9,27.7,202.9

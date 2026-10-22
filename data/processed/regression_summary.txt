@@ -1,0 +1,29 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         le_persons_avg   R-squared:                       0.831
+Model:                            OLS   Adj. R-squared:                  0.825
+Method:                 Least Squares   F-statistic:                     183.6
+Date:                Thu, 22 Oct 2026   Prob (F-statistic):           7.31e-61
+Time:                        09:13:53   Log-Likelihood:                -155.54
+No. Observations:                 151   AIC:                             323.1
+Df Residuals:                     145   BIC:                             341.2
+Df Model:                           5                                         
+Covariance Type:                  HC3                                         
+========================================================================================
+                           coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                   81.3629      0.058   1403.622      0.000      81.249      81.477
+imd_2025                -1.0972      0.096    -11.408      0.000      -1.286      -0.909
+smoking_pct             -0.1675      0.093     -1.803      0.071      -0.350       0.015
+adult_overweight_pct    -0.4458      0.106     -4.220      0.000      -0.653      -0.239
+inactive_pct            -0.0122      0.114     -0.107      0.915      -0.236       0.211
+air_pollution_pct        0.2861      0.078      3.687      0.000       0.134       0.438
+==============================================================================
+Omnibus:                        6.560   Durbin-Watson:                   1.766
+Prob(Omnibus):                  0.038   Jarque-Bera (JB):                6.147
+Skew:                           0.457   Prob(JB):                       0.0463
+Kurtosis:                       3.376   Cond. No.                         3.53
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)

@@ -1,0 +1,441 @@
+measure,sex,period,decile,value,decile_no
+healthy_life_expectancy,Female,2013 - 15,Most deprived decile,52.2,1
+healthy_life_expectancy,Female,2013 - 15,Second most deprived decile,56.0,2
+healthy_life_expectancy,Female,2013 - 15,Third more deprived decile,59.5,3
+healthy_life_expectancy,Female,2013 - 15,Fourth more deprived decile,62.7,4
+healthy_life_expectancy,Female,2013 - 15,Fifth more deprived decile,64.7,5
+healthy_life_expectancy,Female,2013 - 15,Fifth less deprived decile,66.7,6
+healthy_life_expectancy,Female,2013 - 15,Fourth less deprived decile,67.1,7
+healthy_life_expectancy,Female,2013 - 15,Third less deprived decile,68.5,8
+healthy_life_expectancy,Female,2013 - 15,Second least deprived decile,69.1,9
+healthy_life_expectancy,Female,2013 - 15,Least deprived decile,71.3,10
+healthy_life_expectancy,Female,2014 - 16,Most deprived decile,51.9,1
+healthy_life_expectancy,Female,2014 - 16,Second most deprived decile,56.6,2
+healthy_life_expectancy,Female,2014 - 16,Third more deprived decile,59.5,3
+healthy_life_expectancy,Female,2014 - 16,Fourth more deprived decile,62.7,4
+healthy_life_expectancy,Female,2014 - 16,Fifth more deprived decile,64.1,5
+healthy_life_expectancy,Female,2014 - 16,Fifth less deprived decile,65.7,6
+healthy_life_expectancy,Female,2014 - 16,Fourth less deprived decile,66.8,7
+healthy_life_expectancy,Female,2014 - 16,Third less deprived decile,68.2,8
+healthy_life_expectancy,Female,2014 - 16,Second least deprived decile,68.7,9
+healthy_life_expectancy,Female,2014 - 16,Least deprived decile,70.8,10
+healthy_life_expectancy,Female,2015 - 17,Most deprived decile,52.2,1
+healthy_life_expectancy,Female,2015 - 17,Second most deprived decile,56.8,2
+healthy_life_expectancy,Female,2015 - 17,Third more deprived decile,59.4,3
+healthy_life_expectancy,Female,2015 - 17,Fourth more deprived decile,62.1,4
+healthy_life_expectancy,Female,2015 - 17,Fifth more deprived decile,64.5,5
+healthy_life_expectancy,Female,2015 - 17,Fifth less deprived decile,65.7,6
+healthy_life_expectancy,Female,2015 - 17,Fourth less deprived decile,66.9,7
+healthy_life_expectancy,Female,2015 - 17,Third less deprived decile,68.0,8
+healthy_life_expectancy,Female,2015 - 17,Second least deprived decile,68.7,9
+healthy_life_expectancy,Female,2015 - 17,Least deprived decile,70.5,10
+healthy_life_expectancy,Female,2016 - 18,Most deprived decile,51.8,1
+healthy_life_expectancy,Female,2016 - 18,Second most deprived decile,56.6,2
+healthy_life_expectancy,Female,2016 - 18,Third more deprived decile,59.4,3
+healthy_life_expectancy,Female,2016 - 18,Fourth more deprived decile,61.9,4
+healthy_life_expectancy,Female,2016 - 18,Fifth more deprived decile,65.4,5
+healthy_life_expectancy,Female,2016 - 18,Fifth less deprived decile,65.4,6
+healthy_life_expectancy,Female,2016 - 18,Fourth less deprived decile,67.1,7
+healthy_life_expectancy,Female,2016 - 18,Third less deprived decile,68.3,8
+healthy_life_expectancy,Female,2016 - 18,Second least deprived decile,69.1,9
+healthy_life_expectancy,Female,2016 - 18,Least deprived decile,70.8,10
+healthy_life_expectancy,Female,2017 - 19,Most deprived decile,51.7,1
+healthy_life_expectancy,Female,2017 - 19,Second most deprived decile,56.1,2
+healthy_life_expectancy,Female,2017 - 19,Third more deprived decile,59.0,3
+healthy_life_expectancy,Female,2017 - 19,Fourth more deprived decile,62.0,4
+healthy_life_expectancy,Female,2017 - 19,Fifth more deprived decile,64.3,5
+healthy_life_expectancy,Female,2017 - 19,Fifth less deprived decile,64.9,6
+healthy_life_expectancy,Female,2017 - 19,Fourth less deprived decile,67.1,7
+healthy_life_expectancy,Female,2017 - 19,Third less deprived decile,67.6,8
+healthy_life_expectancy,Female,2017 - 19,Second least deprived decile,68.2,9
+healthy_life_expectancy,Female,2017 - 19,Least deprived decile,71.1,10
+healthy_life_expectancy,Female,2018 - 20,Most deprived decile,51.7,1
+healthy_life_expectancy,Female,2018 - 20,Second most deprived decile,56.7,2
+healthy_life_expectancy,Female,2018 - 20,Third more deprived decile,59.5,3
+healthy_life_expectancy,Female,2018 - 20,Fourth more deprived decile,61.9,4
+healthy_life_expectancy,Female,2018 - 20,Fifth more deprived decile,64.5,5
+healthy_life_expectancy,Female,2018 - 20,Fifth less deprived decile,65.2,6
+healthy_life_expectancy,Female,2018 - 20,Fourth less deprived decile,67.5,7
+healthy_life_expectancy,Female,2018 - 20,Third less deprived decile,68.6,8
+healthy_life_expectancy,Female,2018 - 20,Second least deprived decile,69.4,9
+healthy_life_expectancy,Female,2018 - 20,Least deprived decile,70.7,10
+healthy_life_expectancy,Female,2019 - 21,Most deprived decile,51.4,1
+healthy_life_expectancy,Female,2019 - 21,Second most deprived decile,56.2,2
+healthy_life_expectancy,Female,2019 - 21,Third more deprived decile,60.3,3
+healthy_life_expectancy,Female,2019 - 21,Fourth more deprived decile,61.6,4
+healthy_life_expectancy,Female,2019 - 21,Fifth more deprived decile,64.3,5
+healthy_life_expectancy,Female,2019 - 21,Fifth less deprived decile,64.7,6
+healthy_life_expectancy,Female,2019 - 21,Fourth less deprived decile,67.2,7
+healthy_life_expectancy,Female,2019 - 21,Third less deprived decile,68.5,8
+healthy_life_expectancy,Female,2019 - 21,Second least deprived decile,69.1,9
+healthy_life_expectancy,Female,2019 - 21,Least deprived decile,70.3,10
+healthy_life_expectancy,Female,2020 - 22,Most deprived decile,50.3,1
+healthy_life_expectancy,Female,2020 - 22,Second most deprived decile,54.8,2
+healthy_life_expectancy,Female,2020 - 22,Third more deprived decile,59.1,3
+healthy_life_expectancy,Female,2020 - 22,Fourth more deprived decile,61.1,4
+healthy_life_expectancy,Female,2020 - 22,Fifth more deprived decile,62.9,5
+healthy_life_expectancy,Female,2020 - 22,Fifth less deprived decile,64.2,6
+healthy_life_expectancy,Female,2020 - 22,Fourth less deprived decile,66.2,7
+healthy_life_expectancy,Female,2020 - 22,Third less deprived decile,67.9,8
+healthy_life_expectancy,Female,2020 - 22,Second least deprived decile,68.6,9
+healthy_life_expectancy,Female,2020 - 22,Least deprived decile,70.0,10
+healthy_life_expectancy,Female,2021 - 23,Most deprived decile,48.8,1
+healthy_life_expectancy,Female,2021 - 23,Second most deprived decile,54.2,2
+healthy_life_expectancy,Female,2021 - 23,Third more deprived decile,57.4,3
+healthy_life_expectancy,Female,2021 - 23,Fourth more deprived decile,60.7,4
+healthy_life_expectancy,Female,2021 - 23,Fifth more deprived decile,62.9,5
+healthy_life_expectancy,Female,2021 - 23,Fifth less deprived decile,64.4,6
+healthy_life_expectancy,Female,2021 - 23,Fourth less deprived decile,64.6,7
+healthy_life_expectancy,Female,2021 - 23,Third less deprived decile,66.3,8
+healthy_life_expectancy,Female,2021 - 23,Second least deprived decile,67.6,9
+healthy_life_expectancy,Female,2021 - 23,Least deprived decile,69.1,10
+healthy_life_expectancy,Female,2022 - 24,Most deprived decile,48.2,1
+healthy_life_expectancy,Female,2022 - 24,Second most deprived decile,55.1,2
+healthy_life_expectancy,Female,2022 - 24,Third more deprived decile,56.9,3
+healthy_life_expectancy,Female,2022 - 24,Fourth more deprived decile,58.5,4
+healthy_life_expectancy,Female,2022 - 24,Fifth more deprived decile,61.8,5
+healthy_life_expectancy,Female,2022 - 24,Fifth less deprived decile,63.8,6
+healthy_life_expectancy,Female,2022 - 24,Fourth less deprived decile,64.9,7
+healthy_life_expectancy,Female,2022 - 24,Third less deprived decile,65.4,8
+healthy_life_expectancy,Female,2022 - 24,Second least deprived decile,67.4,9
+healthy_life_expectancy,Female,2022 - 24,Least deprived decile,68.5,10
+healthy_life_expectancy,Male,2013 - 15,Most deprived decile,52.1,1
+healthy_life_expectancy,Male,2013 - 15,Second most deprived decile,56.2,2
+healthy_life_expectancy,Male,2013 - 15,Third more deprived decile,59.4,3
+healthy_life_expectancy,Male,2013 - 15,Fourth more deprived decile,61.7,4
+healthy_life_expectancy,Male,2013 - 15,Fifth more deprived decile,64.0,5
+healthy_life_expectancy,Male,2013 - 15,Fifth less deprived decile,65.0,6
+healthy_life_expectancy,Male,2013 - 15,Fourth less deprived decile,66.8,7
+healthy_life_expectancy,Male,2013 - 15,Third less deprived decile,67.5,8
+healthy_life_expectancy,Male,2013 - 15,Second least deprived decile,68.4,9
+healthy_life_expectancy,Male,2013 - 15,Least deprived decile,70.4,10
+healthy_life_expectancy,Male,2014 - 16,Most deprived decile,52.3,1
+healthy_life_expectancy,Male,2014 - 16,Second most deprived decile,56.3,2
+healthy_life_expectancy,Male,2014 - 16,Third more deprived decile,59.2,3
+healthy_life_expectancy,Male,2014 - 16,Fourth more deprived decile,62.1,4
+healthy_life_expectancy,Male,2014 - 16,Fifth more deprived decile,64.4,5
+healthy_life_expectancy,Male,2014 - 16,Fifth less deprived decile,64.9,6
+healthy_life_expectancy,Male,2014 - 16,Fourth less deprived decile,66.5,7
+healthy_life_expectancy,Male,2014 - 16,Third less deprived decile,67.4,8
+healthy_life_expectancy,Male,2014 - 16,Second least deprived decile,68.8,9
+healthy_life_expectancy,Male,2014 - 16,Least deprived decile,70.2,10
+healthy_life_expectancy,Male,2015 - 17,Most deprived decile,52.1,1
+healthy_life_expectancy,Male,2015 - 17,Second most deprived decile,57.0,2
+healthy_life_expectancy,Male,2015 - 17,Third more deprived decile,59.1,3
+healthy_life_expectancy,Male,2015 - 17,Fourth more deprived decile,61.9,4
+healthy_life_expectancy,Male,2015 - 17,Fifth more deprived decile,64.0,5
+healthy_life_expectancy,Male,2015 - 17,Fifth less deprived decile,64.7,6
+healthy_life_expectancy,Male,2015 - 17,Fourth less deprived decile,66.5,7
+healthy_life_expectancy,Male,2015 - 17,Third less deprived decile,67.7,8
+healthy_life_expectancy,Male,2015 - 17,Second least deprived decile,68.9,9
+healthy_life_expectancy,Male,2015 - 17,Least deprived decile,70.3,10
+healthy_life_expectancy,Male,2016 - 18,Most deprived decile,52.2,1
+healthy_life_expectancy,Male,2016 - 18,Second most deprived decile,56.7,2
+healthy_life_expectancy,Male,2016 - 18,Third more deprived decile,59.2,3
+healthy_life_expectancy,Male,2016 - 18,Fourth more deprived decile,61.8,4
+healthy_life_expectancy,Male,2016 - 18,Fifth more deprived decile,64.1,5
+healthy_life_expectancy,Male,2016 - 18,Fifth less deprived decile,64.6,6
+healthy_life_expectancy,Male,2016 - 18,Fourth less deprived decile,66.7,7
+healthy_life_expectancy,Male,2016 - 18,Third less deprived decile,67.7,8
+healthy_life_expectancy,Male,2016 - 18,Second least deprived decile,69.1,9
+healthy_life_expectancy,Male,2016 - 18,Least deprived decile,70.3,10
+healthy_life_expectancy,Male,2017 - 19,Most deprived decile,52.5,1
+healthy_life_expectancy,Male,2017 - 19,Second most deprived decile,56.4,2
+healthy_life_expectancy,Male,2017 - 19,Third more deprived decile,58.7,3
+healthy_life_expectancy,Male,2017 - 19,Fourth more deprived decile,62.0,4
+healthy_life_expectancy,Male,2017 - 19,Fifth more deprived decile,63.9,5
+healthy_life_expectancy,Male,2017 - 19,Fifth less deprived decile,64.4,6
+healthy_life_expectancy,Male,2017 - 19,Fourth less deprived decile,66.7,7
+healthy_life_expectancy,Male,2017 - 19,Third less deprived decile,67.0,8
+healthy_life_expectancy,Male,2017 - 19,Second least deprived decile,68.9,9
+healthy_life_expectancy,Male,2017 - 19,Least deprived decile,70.4,10
+healthy_life_expectancy,Male,2018 - 20,Most deprived decile,52.3,1
+healthy_life_expectancy,Male,2018 - 20,Second most deprived decile,56.8,2
+healthy_life_expectancy,Male,2018 - 20,Third more deprived decile,58.6,3
+healthy_life_expectancy,Male,2018 - 20,Fourth more deprived decile,61.3,4
+healthy_life_expectancy,Male,2018 - 20,Fifth more deprived decile,64.2,5
+healthy_life_expectancy,Male,2018 - 20,Fifth less deprived decile,65.2,6
+healthy_life_expectancy,Male,2018 - 20,Fourth less deprived decile,66.3,7
+healthy_life_expectancy,Male,2018 - 20,Third less deprived decile,67.6,8
+healthy_life_expectancy,Male,2018 - 20,Second least deprived decile,68.2,9
+healthy_life_expectancy,Male,2018 - 20,Least deprived decile,70.3,10
+healthy_life_expectancy,Male,2019 - 21,Most deprived decile,52.0,1
+healthy_life_expectancy,Male,2019 - 21,Second most deprived decile,56.2,2
+healthy_life_expectancy,Male,2019 - 21,Third more deprived decile,59.2,3
+healthy_life_expectancy,Male,2019 - 21,Fourth more deprived decile,60.5,4
+healthy_life_expectancy,Male,2019 - 21,Fifth more deprived decile,63.8,5
+healthy_life_expectancy,Male,2019 - 21,Fifth less deprived decile,64.8,6
+healthy_life_expectancy,Male,2019 - 21,Fourth less deprived decile,65.7,7
+healthy_life_expectancy,Male,2019 - 21,Third less deprived decile,67.1,8
+healthy_life_expectancy,Male,2019 - 21,Second least deprived decile,68.6,9
+healthy_life_expectancy,Male,2019 - 21,Least deprived decile,70.4,10
+healthy_life_expectancy,Male,2020 - 22,Most deprived decile,51.4,1
+healthy_life_expectancy,Male,2020 - 22,Second most deprived decile,55.9,2
+healthy_life_expectancy,Male,2020 - 22,Third more deprived decile,59.0,3
+healthy_life_expectancy,Male,2020 - 22,Fourth more deprived decile,60.3,4
+healthy_life_expectancy,Male,2020 - 22,Fifth more deprived decile,62.8,5
+healthy_life_expectancy,Male,2020 - 22,Fifth less deprived decile,64.4,6
+healthy_life_expectancy,Male,2020 - 22,Fourth less deprived decile,65.4,7
+healthy_life_expectancy,Male,2020 - 22,Third less deprived decile,67.0,8
+healthy_life_expectancy,Male,2020 - 22,Second least deprived decile,68.4,9
+healthy_life_expectancy,Male,2020 - 22,Least deprived decile,70.2,10
+healthy_life_expectancy,Male,2021 - 23,Most deprived decile,50.2,1
+healthy_life_expectancy,Male,2021 - 23,Second most deprived decile,54.8,2
+healthy_life_expectancy,Male,2021 - 23,Third more deprived decile,58.3,3
+healthy_life_expectancy,Male,2021 - 23,Fourth more deprived decile,60.7,4
+healthy_life_expectancy,Male,2021 - 23,Fifth more deprived decile,62.1,5
+healthy_life_expectancy,Male,2021 - 23,Fifth less deprived decile,63.8,6
+healthy_life_expectancy,Male,2021 - 23,Fourth less deprived decile,63.9,7
+healthy_life_expectancy,Male,2021 - 23,Third less deprived decile,66.1,8
+healthy_life_expectancy,Male,2021 - 23,Second least deprived decile,67.7,9
+healthy_life_expectancy,Male,2021 - 23,Least deprived decile,70.0,10
+healthy_life_expectancy,Male,2022 - 24,Most deprived decile,49.8,1
+healthy_life_expectancy,Male,2022 - 24,Second most deprived decile,54.1,2
+healthy_life_expectancy,Male,2022 - 24,Third more deprived decile,56.9,3
+healthy_life_expectancy,Male,2022 - 24,Fourth more deprived decile,60.1,4
+healthy_life_expectancy,Male,2022 - 24,Fifth more deprived decile,62.2,5
+healthy_life_expectancy,Male,2022 - 24,Fifth less deprived decile,62.8,6
+healthy_life_expectancy,Male,2022 - 24,Fourth less deprived decile,64.0,7
+healthy_life_expectancy,Male,2022 - 24,Third less deprived decile,65.5,8
+healthy_life_expectancy,Male,2022 - 24,Second least deprived decile,66.8,9
+healthy_life_expectancy,Male,2022 - 24,Least deprived decile,69.2,10
+life_expectancy,Female,2011 - 13,Most deprived decile,79.0035058985609,1
+life_expectancy,Female,2011 - 13,Second most deprived decile,80.4030127574833,2
+life_expectancy,Female,2011 - 13,Third more deprived decile,81.4891182006853,3
+life_expectancy,Female,2011 - 13,Fourth more deprived decile,82.4034602770861,4
+life_expectancy,Female,2011 - 13,Fifth more deprived decile,83.0526387706888,5
+life_expectancy,Female,2011 - 13,Fifth less deprived decile,83.5532029314416,6
+life_expectancy,Female,2011 - 13,Fourth less deprived decile,84.0495929358266,7
+life_expectancy,Female,2011 - 13,Third less deprived decile,84.3557118709637,8
+life_expectancy,Female,2011 - 13,Second least deprived decile,84.9579071989766,9
+life_expectancy,Female,2011 - 13,Least deprived decile,85.8490414081781,10
+life_expectancy,Female,2012 - 14,Most deprived decile,78.9867081772319,1
+life_expectancy,Female,2012 - 14,Second most deprived decile,80.4610272068336,2
+life_expectancy,Female,2012 - 14,Third more deprived decile,81.5994627279611,3
+life_expectancy,Female,2012 - 14,Fourth more deprived decile,82.4504554860454,4
+life_expectancy,Female,2012 - 14,Fifth more deprived decile,83.1577292501588,5
+life_expectancy,Female,2012 - 14,Fifth less deprived decile,83.6895805228248,6
+life_expectancy,Female,2012 - 14,Fourth less deprived decile,84.1489404131674,7
+life_expectancy,Female,2012 - 14,Third less deprived decile,84.483713396669,8
+life_expectancy,Female,2012 - 14,Second least deprived decile,85.0298600564394,9
+life_expectancy,Female,2012 - 14,Least deprived decile,85.9299330730886,10
+life_expectancy,Female,2013 - 15,Most deprived decile,78.8381976928591,1
+life_expectancy,Female,2013 - 15,Second most deprived decile,80.3455035733638,2
+life_expectancy,Female,2013 - 15,Third more deprived decile,81.6014549901809,3
+life_expectancy,Female,2013 - 15,Fourth more deprived decile,82.4392827484337,4
+life_expectancy,Female,2013 - 15,Fifth more deprived decile,83.1472613332016,5
+life_expectancy,Female,2013 - 15,Fifth less deprived decile,83.6212457071252,6
+life_expectancy,Female,2013 - 15,Fourth less deprived decile,84.1911805353773,7
+life_expectancy,Female,2013 - 15,Third less deprived decile,84.5261818420729,8
+life_expectancy,Female,2013 - 15,Second least deprived decile,85.0654243782658,9
+life_expectancy,Female,2013 - 15,Least deprived decile,85.9985022583679,10
+life_expectancy,Female,2014 - 16,Most deprived decile,78.7629477741044,1
+life_expectancy,Female,2014 - 16,Second most deprived decile,80.3439985870989,2
+life_expectancy,Female,2014 - 16,Third more deprived decile,81.5748299755714,3
+life_expectancy,Female,2014 - 16,Fourth more deprived decile,82.4519151125944,4
+life_expectancy,Female,2014 - 16,Fifth more deprived decile,83.1513044879408,5
+life_expectancy,Female,2014 - 16,Fifth less deprived decile,83.6658378083935,6
+life_expectancy,Female,2014 - 16,Fourth less deprived decile,84.2079164463578,7
+life_expectancy,Female,2014 - 16,Third less deprived decile,84.5908129479826,8
+life_expectancy,Female,2014 - 16,Second least deprived decile,85.1163696425837,9
+life_expectancy,Female,2014 - 16,Least deprived decile,86.1084964929862,10
+life_expectancy,Female,2015 - 17,Most deprived decile,78.6827952954439,1
+life_expectancy,Female,2015 - 17,Second most deprived decile,80.2765121197464,2
+life_expectancy,Female,2015 - 17,Third more deprived decile,81.4953429452681,3
+life_expectancy,Female,2015 - 17,Fourth more deprived decile,82.4834830321796,4
+life_expectancy,Female,2015 - 17,Fifth more deprived decile,83.0784677889003,5
+life_expectancy,Female,2015 - 17,Fifth less deprived decile,83.6593043856887,6
+life_expectancy,Female,2015 - 17,Fourth less deprived decile,84.1775201649515,7
+life_expectancy,Female,2015 - 17,Third less deprived decile,84.6035833270458,8
+life_expectancy,Female,2015 - 17,Second least deprived decile,85.1099124910293,9
+life_expectancy,Female,2015 - 17,Least deprived decile,86.1292733833284,10
+life_expectancy,Female,2016 - 18,Most deprived decile,78.5934053447237,1
+life_expectancy,Female,2016 - 18,Second most deprived decile,80.4193117901474,2
+life_expectancy,Female,2016 - 18,Third more deprived decile,81.603654212411,3
+life_expectancy,Female,2016 - 18,Fourth more deprived decile,82.4262751495201,4
+life_expectancy,Female,2016 - 18,Fifth more deprived decile,83.3067860223491,5
+life_expectancy,Female,2016 - 18,Fifth less deprived decile,83.8462921264596,6
+life_expectancy,Female,2016 - 18,Fourth less deprived decile,84.2589390303114,7
+life_expectancy,Female,2016 - 18,Third less deprived decile,84.7643261076779,8
+life_expectancy,Female,2016 - 18,Second least deprived decile,85.1914561023817,9
+life_expectancy,Female,2016 - 18,Least deprived decile,86.1711361416053,10
+life_expectancy,Female,2017 - 19,Most deprived decile,78.7163398526274,1
+life_expectancy,Female,2017 - 19,Second most deprived decile,80.548443638202,2
+life_expectancy,Female,2017 - 19,Third more deprived decile,81.7619961506787,3
+life_expectancy,Female,2017 - 19,Fourth more deprived decile,82.5545684305397,4
+life_expectancy,Female,2017 - 19,Fifth more deprived decile,83.4084266252476,5
+life_expectancy,Female,2017 - 19,Fifth less deprived decile,83.9720022543947,6
+life_expectancy,Female,2017 - 19,Fourth less deprived decile,84.4794338353139,7
+life_expectancy,Female,2017 - 19,Third less deprived decile,84.8822846094774,8
+life_expectancy,Female,2017 - 19,Second least deprived decile,85.3744405348292,9
+life_expectancy,Female,2017 - 19,Least deprived decile,86.274220191882,10
+life_expectancy,Female,2018 - 20,Most deprived decile,78.280574693699,1
+life_expectancy,Female,2018 - 20,Second most deprived decile,80.1447722680294,2
+life_expectancy,Female,2018 - 20,Third more deprived decile,81.4307839214342,3
+life_expectancy,Female,2018 - 20,Fourth more deprived decile,82.3899665034722,4
+life_expectancy,Female,2018 - 20,Fifth more deprived decile,83.2215763253699,5
+life_expectancy,Female,2018 - 20,Fifth less deprived decile,83.7825960620505,6
+life_expectancy,Female,2018 - 20,Fourth less deprived decile,84.3357612119561,7
+life_expectancy,Female,2018 - 20,Third less deprived decile,84.6904296106283,8
+life_expectancy,Female,2018 - 20,Second least deprived decile,85.2486483282155,9
+life_expectancy,Female,2018 - 20,Least deprived decile,86.0921884604305,10
+life_expectancy,Female,2019 - 21,Most deprived decile,77.8792764565836,1
+life_expectancy,Female,2019 - 21,Second most deprived decile,79.7667220286008,2
+life_expectancy,Female,2019 - 21,Third more deprived decile,81.1799078913878,3
+life_expectancy,Female,2019 - 21,Fourth more deprived decile,82.2851297641846,4
+life_expectancy,Female,2019 - 21,Fifth more deprived decile,83.0818961902393,5
+life_expectancy,Female,2019 - 21,Fifth less deprived decile,83.7292217489774,6
+life_expectancy,Female,2019 - 21,Fourth less deprived decile,84.3122950774414,7
+life_expectancy,Female,2019 - 21,Third less deprived decile,84.6630726244409,8
+life_expectancy,Female,2019 - 21,Second least deprived decile,85.2698630948194,9
+life_expectancy,Female,2019 - 21,Least deprived decile,86.1351830723074,10
+life_expectancy,Female,2020 - 22,Most deprived decile,77.65964,1
+life_expectancy,Female,2020 - 22,Second most deprived decile,79.57824,2
+life_expectancy,Female,2020 - 22,Third more deprived decile,81.01395,3
+life_expectancy,Female,2020 - 22,Fourth more deprived decile,82.09545,4
+life_expectancy,Female,2020 - 22,Fifth more deprived decile,82.99968,5
+life_expectancy,Female,2020 - 22,Fifth less deprived decile,83.64813,6
+life_expectancy,Female,2020 - 22,Fourth less deprived decile,84.16596,7
+life_expectancy,Female,2020 - 22,Third less deprived decile,84.63234,8
+life_expectancy,Female,2020 - 22,Second least deprived decile,85.1845,9
+life_expectancy,Female,2020 - 22,Least deprived decile,86.07262,10
+life_expectancy,Female,2021 - 23,Most deprived decile,77.96505,1
+life_expectancy,Female,2021 - 23,Second most deprived decile,79.93925,2
+life_expectancy,Female,2021 - 23,Third more deprived decile,81.2599,3
+life_expectancy,Female,2021 - 23,Fourth more deprived decile,82.3017,4
+life_expectancy,Female,2021 - 23,Fifth more deprived decile,83.1604,5
+life_expectancy,Female,2021 - 23,Fifth less deprived decile,83.8327,6
+life_expectancy,Female,2021 - 23,Fourth less deprived decile,84.30471,7
+life_expectancy,Female,2021 - 23,Third less deprived decile,84.92061,8
+life_expectancy,Female,2021 - 23,Second least deprived decile,85.34005,9
+life_expectancy,Female,2021 - 23,Least deprived decile,86.24392,10
+life_expectancy,Female,2022 - 24,Most deprived decile,78.3119400969676,1
+life_expectancy,Female,2022 - 24,Second most deprived decile,80.3749157417195,2
+life_expectancy,Female,2022 - 24,Third more deprived decile,81.571533892636,3
+life_expectancy,Female,2022 - 24,Fourth more deprived decile,82.7090128066032,4
+life_expectancy,Female,2022 - 24,Fifth more deprived decile,83.5204078251704,5
+life_expectancy,Female,2022 - 24,Fifth less deprived decile,84.1068600718333,6
+life_expectancy,Female,2022 - 24,Fourth less deprived decile,84.5754261275539,7
+life_expectancy,Female,2022 - 24,Third less deprived decile,85.0624844252511,8
+life_expectancy,Female,2022 - 24,Second least deprived decile,85.5083451695078,9
+life_expectancy,Female,2022 - 24,Least deprived decile,86.439771908577,10
+life_expectancy,Male,2011 - 13,Most deprived decile,73.8589891443928,1
+life_expectancy,Male,2011 - 13,Second most deprived decile,76.0044709714854,2
+life_expectancy,Male,2011 - 13,Third more deprived decile,77.315804597256,3
+life_expectancy,Male,2011 - 13,Fourth more deprived decile,78.5145206495627,4
+life_expectancy,Male,2011 - 13,Fifth more deprived decile,79.4252418449639,5
+life_expectancy,Male,2011 - 13,Fifth less deprived decile,80.1401362034569,6
+life_expectancy,Male,2011 - 13,Fourth less deprived decile,80.7325953788248,7
+life_expectancy,Male,2011 - 13,Third less deprived decile,81.2878459341836,8
+life_expectancy,Male,2011 - 13,Second least deprived decile,81.8519631142691,9
+life_expectancy,Male,2011 - 13,Least deprived decile,82.8887276486408,10
+life_expectancy,Male,2012 - 14,Most deprived decile,73.9335986579528,1
+life_expectancy,Male,2012 - 14,Second most deprived decile,76.0961295880052,2
+life_expectancy,Male,2012 - 14,Third more deprived decile,77.4338653320331,3
+life_expectancy,Male,2012 - 14,Fourth more deprived decile,78.6861168956236,4
+life_expectancy,Male,2012 - 14,Fifth more deprived decile,79.5415783718515,5
+life_expectancy,Male,2012 - 14,Fifth less deprived decile,80.2975651073426,6
+life_expectancy,Male,2012 - 14,Fourth less deprived decile,80.9251436547984,7
+life_expectancy,Male,2012 - 14,Third less deprived decile,81.3958977943975,8
+life_expectancy,Male,2012 - 14,Second least deprived decile,81.9984053072082,9
+life_expectancy,Male,2012 - 14,Least deprived decile,83.0290015828971,10
+life_expectancy,Male,2013 - 15,Most deprived decile,73.9078798679582,1
+life_expectancy,Male,2013 - 15,Second most deprived decile,76.0047425904318,2
+life_expectancy,Male,2013 - 15,Third more deprived decile,77.3319580432057,3
+life_expectancy,Male,2013 - 15,Fourth more deprived decile,78.6489782537286,4
+life_expectancy,Male,2013 - 15,Fifth more deprived decile,79.5703708699981,5
+life_expectancy,Male,2013 - 15,Fifth less deprived decile,80.3797414680104,6
+life_expectancy,Male,2013 - 15,Fourth less deprived decile,80.9816499138643,7
+life_expectancy,Male,2013 - 15,Third less deprived decile,81.4130473281542,8
+life_expectancy,Male,2013 - 15,Second least deprived decile,82.0802380593106,9
+life_expectancy,Male,2013 - 15,Least deprived decile,83.0837104714605,10
+life_expectancy,Male,2014 - 16,Most deprived decile,73.8564954418085,1
+life_expectancy,Male,2014 - 16,Second most deprived decile,75.97721778697,2
+life_expectancy,Male,2014 - 16,Third more deprived decile,77.341217578329,3
+life_expectancy,Male,2014 - 16,Fourth more deprived decile,78.7295413995957,4
+life_expectancy,Male,2014 - 16,Fifth more deprived decile,79.6517206633139,5
+life_expectancy,Male,2014 - 16,Fifth less deprived decile,80.4323343469667,6
+life_expectancy,Male,2014 - 16,Fourth less deprived decile,81.0779286257135,7
+life_expectancy,Male,2014 - 16,Third less deprived decile,81.5255517629566,8
+life_expectancy,Male,2014 - 16,Second least deprived decile,82.1747471273985,9
+life_expectancy,Male,2014 - 16,Least deprived decile,83.2395890826841,10
+life_expectancy,Male,2015 - 17,Most deprived decile,73.8632873893725,1
+life_expectancy,Male,2015 - 17,Second most deprived decile,75.9801797752581,2
+life_expectancy,Male,2015 - 17,Third more deprived decile,77.3332729510933,3
+life_expectancy,Male,2015 - 17,Fourth more deprived decile,78.666716248564,4
+life_expectancy,Male,2015 - 17,Fifth more deprived decile,79.6535296958976,5
+life_expectancy,Male,2015 - 17,Fifth less deprived decile,80.415077607994,6
+life_expectancy,Male,2015 - 17,Fourth less deprived decile,81.0635472896559,7
+life_expectancy,Male,2015 - 17,Third less deprived decile,81.5398727975221,8
+life_expectancy,Male,2015 - 17,Second least deprived decile,82.2336731725203,9
+life_expectancy,Male,2015 - 17,Least deprived decile,83.2777015926345,10
+life_expectancy,Male,2016 - 18,Most deprived decile,73.7975747428409,1
+life_expectancy,Male,2016 - 18,Second most deprived decile,76.0401303429024,2
+life_expectancy,Male,2016 - 18,Third more deprived decile,77.5165185908598,3
+life_expectancy,Male,2016 - 18,Fourth more deprived decile,78.7047150016883,4
+life_expectancy,Male,2016 - 18,Fifth more deprived decile,79.7872521552056,5
+life_expectancy,Male,2016 - 18,Fifth less deprived decile,80.5740475094459,6
+life_expectancy,Male,2016 - 18,Fourth less deprived decile,81.0735993616817,7
+life_expectancy,Male,2016 - 18,Third less deprived decile,81.7120677483782,8
+life_expectancy,Male,2016 - 18,Second least deprived decile,82.2614220576879,9
+life_expectancy,Male,2016 - 18,Least deprived decile,83.3529297178469,10
+life_expectancy,Male,2017 - 19,Most deprived decile,73.9830070017175,1
+life_expectancy,Male,2017 - 19,Second most deprived decile,76.1370033763066,2
+life_expectancy,Male,2017 - 19,Third more deprived decile,77.6331077772684,3
+life_expectancy,Male,2017 - 19,Fourth more deprived decile,78.8152235361761,4
+life_expectancy,Male,2017 - 19,Fifth more deprived decile,79.9099003690102,5
+life_expectancy,Male,2017 - 19,Fifth less deprived decile,80.6901315926015,6
+life_expectancy,Male,2017 - 19,Fourth less deprived decile,81.2343754701234,7
+life_expectancy,Male,2017 - 19,Third less deprived decile,81.8072316407149,8
+life_expectancy,Male,2017 - 19,Second least deprived decile,82.3281760820523,9
+life_expectancy,Male,2017 - 19,Least deprived decile,83.4182498484307,10
+life_expectancy,Male,2018 - 20,Most deprived decile,73.4596662538471,1
+life_expectancy,Male,2018 - 20,Second most deprived decile,75.634877975245,2
+life_expectancy,Male,2018 - 20,Third more deprived decile,77.1582653518339,3
+life_expectancy,Male,2018 - 20,Fourth more deprived decile,78.4363966789214,4
+life_expectancy,Male,2018 - 20,Fifth more deprived decile,79.5560023033349,5
+life_expectancy,Male,2018 - 20,Fifth less deprived decile,80.3600348711046,6
+life_expectancy,Male,2018 - 20,Fourth less deprived decile,80.9643915077542,7
+life_expectancy,Male,2018 - 20,Third less deprived decile,81.5645329305296,8
+life_expectancy,Male,2018 - 20,Second least deprived decile,82.0620963311432,9
+life_expectancy,Male,2018 - 20,Least deprived decile,83.1372370514228,10
+life_expectancy,Male,2019 - 21,Most deprived decile,72.946043402232,1
+life_expectancy,Male,2019 - 21,Second most deprived decile,75.1794534636121,2
+life_expectancy,Male,2019 - 21,Third more deprived decile,76.7762903615236,3
+life_expectancy,Male,2019 - 21,Fourth more deprived decile,78.1140151592369,4
+life_expectancy,Male,2019 - 21,Fifth more deprived decile,79.2846264956523,5
+life_expectancy,Male,2019 - 21,Fifth less deprived decile,80.2014928985322,6
+life_expectancy,Male,2019 - 21,Fourth less deprived decile,80.8145929469788,7
+life_expectancy,Male,2019 - 21,Third less deprived decile,81.4035026081243,8
+life_expectancy,Male,2019 - 21,Second least deprived decile,81.9736005548999,9
+life_expectancy,Male,2019 - 21,Least deprived decile,83.042288086595,10
+life_expectancy,Male,2020 - 22,Most deprived decile,72.58148,1
+life_expectancy,Male,2020 - 22,Second most deprived decile,74.92451,2
+life_expectancy,Male,2020 - 22,Third more deprived decile,76.56475,3
+life_expectancy,Male,2020 - 22,Fourth more deprived decile,77.94522,4
+life_expectancy,Male,2020 - 22,Fifth more deprived decile,79.09259,5
+life_expectancy,Male,2020 - 22,Fifth less deprived decile,80.05863,6
+life_expectancy,Male,2020 - 22,Fourth less deprived decile,80.63958,7
+life_expectancy,Male,2020 - 22,Third less deprived decile,81.3567,8
+life_expectancy,Male,2020 - 22,Second least deprived decile,81.93069,9
+life_expectancy,Male,2020 - 22,Least deprived decile,82.97676,10
+life_expectancy,Male,2021 - 23,Most deprived decile,72.82387,1
+life_expectancy,Male,2021 - 23,Second most deprived decile,75.28866,2
+life_expectancy,Male,2021 - 23,Third more deprived decile,76.926,3
+life_expectancy,Male,2021 - 23,Fourth more deprived decile,78.22852,4
+life_expectancy,Male,2021 - 23,Fifth more deprived decile,79.31803,5
+life_expectancy,Male,2021 - 23,Fifth less deprived decile,80.27347,6
+life_expectancy,Male,2021 - 23,Fourth less deprived decile,80.82657,7
+life_expectancy,Male,2021 - 23,Third less deprived decile,81.54526,8
+life_expectancy,Male,2021 - 23,Second least deprived decile,82.14142,9
+life_expectancy,Male,2021 - 23,Least deprived decile,83.19328,10
+life_expectancy,Male,2022 - 24,Most deprived decile,73.1816365030204,1
+life_expectancy,Male,2022 - 24,Second most deprived decile,75.6815318037893,2
+life_expectancy,Male,2022 - 24,Third more deprived decile,77.2638443806594,3
+life_expectancy,Male,2022 - 24,Fourth more deprived decile,78.7218183075728,4
+life_expectancy,Male,2022 - 24,Fifth more deprived decile,79.7170233989049,5
+life_expectancy,Male,2022 - 24,Fifth less deprived decile,80.4879564561325,6
+life_expectancy,Male,2022 - 24,Fourth less deprived decile,81.1911045117146,7
+life_expectancy,Male,2022 - 24,Third less deprived decile,81.8040141018032,8
+life_expectancy,Male,2022 - 24,Second least deprived decile,82.352411930359,9
+life_expectancy,Male,2022 - 24,Least deprived decile,83.5822289149383,10
